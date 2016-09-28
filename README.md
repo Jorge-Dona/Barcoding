@@ -2,7 +2,7 @@ This repository includes:
 
 1) A function to evaluate the sampling effort in DNA Barcoding studies "sampling_effort_test.R", see Doña et al. 2015.
 
-2) A function to stimate the number of mutations of HTS reads against a consensus barcode "cycling.R", see Vierna et al. 2016.
+2) A function to estimate the number of mutations of HTS reads against a consensus barcode "cycling.R", see Vierna et al. 2016.
 
 Don't hesitate to contact me if you have any questions:
 
