@@ -1,7 +1,7 @@
 require(ape)
 require(dplyr)
 
-#require muscle aligment locally installed.
+#require muscle aligment to be locally installed.
 
 Ciclando <- function(ind1,ind2,ind3,ind4) { 
   
